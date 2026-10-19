@@ -1,4 +1,4 @@
-R para Análises Florestais
+Introdução ao R: Aplicações Florestais
 
 <img width="325" height="455" alt="raplciacoes" src="https://github.com/user-attachments/assets/49e0550f-436b-4553-9f24-c059a4b15f59" />  
 
