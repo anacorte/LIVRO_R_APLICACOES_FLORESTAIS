@@ -1,5 +1,8 @@
 R para Análises Florestais
-<img width="325" height="455" alt="raplciacoes" src="https://github.com/user-attachments/assets/49e0550f-436b-4553-9f24-c059a4b15f59" />   https://gpforesteyes.github.io/
+
+<img width="325" height="455" alt="raplciacoes" src="https://github.com/user-attachments/assets/49e0550f-436b-4553-9f24-c059a4b15f59" />  
+
+https://gpforesteyes.github.io/
 
 Domine a linguagem R aplicada às ciências florestais. Este manual oferece uma introdução completa ao R com foco em análises estatísticas, modelagem de dados florestais, visualização de resultados e automação de processos. Ideal para pesquisadores e profissionais.
 
